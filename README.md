@@ -905,7 +905,7 @@ The trading community in Last Epoch has developed a distinct culture:
 ## Community Tools
 - [Last Epoch Tools](https://www.lastepochtools.com/) - Character planner
 - [Build Guides](https://www.lastepochtools.com/build-guides/) - Many build guides for all classes
-- [Excellent Game Reference](https://lastepoch.tunklab.com) - Referneces to many game mechanics and terms
+- [Excellent Game Reference](https://lastepoch.tunklab.com) - References to many game mechanics and terms
 
 ### License
 
