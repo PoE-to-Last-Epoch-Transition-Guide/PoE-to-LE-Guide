@@ -904,9 +904,7 @@ The trading community in Last Epoch has developed a distinct culture:
 
 ## Community Tools
 - [Last Epoch Tools](https://www.lastepochtools.com/) - Character planner
-- [Last Epoch Database](https://www.lastepochdb.com/) - Item database
-- [Last Epoch Build Planner](https://www.lastepochbuilds.com/) - Build sharing
-- [Last Epoch Trading](https://www.lastepochtrading.com/) - Market analytics
+- [Build Guides](https://www.lastepochtools.com/build-guides/) - Many build guides for all classes
 
 ### License
 
