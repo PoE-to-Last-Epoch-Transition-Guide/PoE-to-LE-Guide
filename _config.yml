@@ -1,5 +1,24 @@
-remote_theme: KTibow/cayman-dark
-plugins:
-  - jekyll-remote-theme
-title: Eterra Pathfinder
-description: Last Epoch Guide for Path of Exile Players
+# Site settings
+title: "README Only Site"
+description: "A GitHub Pages site that only serves the README file."
+baseurl: ""              # leave empty unless you deploy to a subpath
+url: "https://<username>.github.io/<repository-name>"
+
+# Defaults: Mark everything unpublished…
+defaults:
+	- scope:
+			path: ""
+		values:
+			published: false
+
+# … except README.md, which is published as the homepage.
+defaults:
+	- scope:
+			path: "README.md"
+		values:
+			published: true
+			permalink: /
+
+# Include README.md even if it would normally be excluded
+include:
+	- README.md
