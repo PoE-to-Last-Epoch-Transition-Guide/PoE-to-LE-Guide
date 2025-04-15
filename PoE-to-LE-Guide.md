@@ -43,6 +43,7 @@
 - [Economy and Trading Systems](#economy-and-trading-systems)
 - [UI and Quality of Life Features](#ui-and-quality-of-life-features)
 - [Controller Support](#controller-support)
+- [Resources for Last Epoch Players](#resources-for-last-epoch-players)
 - [License](#license)
 
 ## Introduction
@@ -892,6 +893,20 @@ The trading community in Last Epoch has developed a distinct culture:
 3. **Balanced Economy**: Less severe RNG means less extreme value disparity in items
 4. **Social Integration**: In-game trading encourages more direct community interaction
 5. **Seasonal Resets**: Economy refreshes with each new seasonal cycle
+
+# Resources for Last Epoch Players
+
+## Official Resources
+- [Official Website](https://lastepoch.com/) - Patch notes and announcements
+- [Forums](https://forum.lastepoch.com/) - Official discussions and bug reports
+- [Discord](https://discord.com/invite/lastepoch) - Developer updates and community
+- In-game Guide - Accessible via main menu
+
+## Community Tools
+- [Last Epoch Tools](https://www.lastepochtools.com/) - Character planner
+- [Last Epoch Database](https://www.lastepochdb.com/) - Item database
+- [Last Epoch Build Planner](https://www.lastepochbuilds.com/) - Build sharing
+- [Last Epoch Trading](https://www.lastepochtrading.com/) - Market analytics
 
 ### License
 
