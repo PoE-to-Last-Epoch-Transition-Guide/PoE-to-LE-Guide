@@ -55,6 +55,8 @@ This guide covers Season 2: Tombs of the Erased content (launching April 17, 202
 
 I've been playing Path of Exile off and on since 2014 and Last Epoch since it went into early access on Steam in April of 2019. Nevertheless, I'm a filthy casual; I'm not a "theorycrafter" level expert in either game. This guide represents my understanding based on years of gameplay, but mistakes are a certainty because there's a lot in these two games and I haven't played every PoE league.
 
+I am not an employee of Eleventh Hour Games (the developers of Last Epoch) and have no affiliation with them. I'm just an enthusiastic fan sharing my experience to help others.
+
 If you spot any inaccuracies or have suggestions for improvement, please leave a comment. Your feedback helps make this resource better for everyone in the Last Epoch community.
 
 ## Core Game Systems: Quick Reference
