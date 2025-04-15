@@ -8,7 +8,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
   - PoE-to-LE-Guide.md
 markdown: kramdown
 kramdown:
